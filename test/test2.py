@@ -1,0 +1,6 @@
+a = input("ใส่ชื่อนนักศึกษา : ")
+b = input("ชื่อเล่น : ")
+c = input("รหัสนักศึกษา : ")
+print("="*10)
+print("ข้อมูลนักศึกษา KMITL pre-camp")
+print(c,"",a,"-",b)
